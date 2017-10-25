@@ -2,3 +2,4 @@ addition
 subtraction
 multiply
 division
+cube root
