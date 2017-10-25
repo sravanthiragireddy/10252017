@@ -1,5 +1,11 @@
 addition
+<<<<<<< Updated upstream
 
 multiply
 
+=======
+subtraction
+
+division
+>>>>>>> Stashed changes
 
