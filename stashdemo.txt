@@ -3,7 +3,7 @@ addition
 substraction
 
 multiply
-
+a*b
 divide
 a/b
 square
