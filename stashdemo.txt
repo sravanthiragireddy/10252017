@@ -1,0 +1,11 @@
+addition
+a+b
+substraction
+a-b
+multiply
+a*b
+divide
+a/b
+square
+
+
