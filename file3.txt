@@ -1,9 +1,12 @@
 addition
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 multiply
 
 =======
+=======
+>>>>>>> Stashed changes
 subtraction
 
 division
