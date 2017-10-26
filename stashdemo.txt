@@ -1,7 +1,7 @@
 addition
 
 substraction
-
+a-b
 multiply
 a*b
 divide
